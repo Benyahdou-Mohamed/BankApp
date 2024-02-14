@@ -13,6 +13,8 @@ export default function Hero  () {
             <p className={` ${styles.paragraph} ml-2`}>
             <span className="text-white">20%{" "}</span>
             <span className="text-white">1 Month{" "}</span>
+            <span className="text-white">20%{" "}</span>
+            <span className="text-white">1 Month{" "}</span>
             </p>
         </div>  
         </div>
